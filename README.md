@@ -1,7 +1,10 @@
 ## Olá, me chamo Mateus! 👋
 
-- ⚙ Hoje eu trabalho com Suporte Técnico
-- 💻 Estudante de ADS
+- 🛠️ Atualmente atuando como Analista HelpDesk
+- 🎓 Estudante de ADS
+- 💻 Técnico em Informática para Internet pela Etec Fernando Prestes.
+- ⚙ Apaixonado por desenvolvimento, interfaces gráficas, e automação de processos com foco em soluções práticas.
+- 🚀 Explorando constantemente o universo de back-end, banco de dados e desenvolvimento de sistemas interativos.
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
 
 <div>
