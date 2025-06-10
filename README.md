@@ -9,9 +9,9 @@
 
 <div>
 <a href="https://github.com/M4teusFranco/github-readme-stats">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=M4teusFranco&show_icons=true&theme=dark" />
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=M4teusFranco&show_icons=true&theme=dracula" />
 <a href="https://github.com/M4teusFranco/convoychat">
-  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs?username=M4teusFranco&theme=dark&layout=compact&langs_count=16"/>
+  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs?username=M4teusFranco&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
