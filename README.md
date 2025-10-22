@@ -4,7 +4,7 @@
 - 🎓 Estudante de ADS
 - 💻 Técnico em Informática para Internet pela Etec Fernando Prestes.
 - ⚙ Apaixonado por desenvolvimento, interfaces gráficas, e automação de processos com foco em soluções práticas.
-- 🚀 Explorando constantemente o universo de back-end, banco de dados e desenvolvimento de sistemas interativos.
+- 🚀 Explorando constantemente o universo de Fullstack, Banco de Dados e Desenvolvimento de Sistemas Interativos.
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
 
 <div>
