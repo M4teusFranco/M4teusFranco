@@ -5,6 +5,7 @@
 - 💻 Técnico em Informática para Internet pela Etec Fernando Prestes.
 - ⚙ Fascinado por desenvolvimento, interfaces gráficas, e automação de processos com foco em soluções práticas.
 - 🚀 Explorando constantemente o universo de Fullstack, Banco de Dados e Desenvolvimento de Sistemas Interativos.
+- 🖌️ Além disso, tenho pleno interesse por Prototipações Gráficas, Design e Montagem via Figma.
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
 
 <div>
