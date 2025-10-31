@@ -3,9 +3,9 @@
 - 🛠️ Atualmente atuando como Analista HelpDesk
 - 🎓 Estudante de ADS
 - 💻 Técnico em Informática para Internet pela Etec Fernando Prestes.
-- ⚙ Fascinado por desenvolvimento, interfaces gráficas, e automação de processos com foco em soluções práticas.
+- ⚙ Fascinado por Desenvolvimento, Interfaces Gráficas, e Automação de Arocessos com foco em soluções práticas.
 - 🚀 Explorando constantemente o universo de Fullstack, Banco de Dados e Desenvolvimento de Sistemas Interativos.
-- 🖌️ Além disso, tenho pleno interesse por Prototipações Gráficas, Design e Montagem via Figma.
+- 🖌️ Além disso, tenho pleno interesse por Prototipações Gráficas, Design e Montagens via Figma e Dashboards com Power BI atrelados a uma base de Dados.
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
 
 <div>
