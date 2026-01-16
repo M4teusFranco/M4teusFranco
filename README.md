@@ -9,11 +9,12 @@
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
 
 <div>
-<a href="https://github.com/M4teusFranco/github-readme-stats">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=M4teusFranco&show_icons=true&theme=dark"/>
-<a href="https://github.com/M4teusFranco/convoychat">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=M4teusFranco&layout=compact&langs_count=16&theme=dark"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M4teusFranco&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M4teusFranco&theme=github_dark" />
+</p>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
