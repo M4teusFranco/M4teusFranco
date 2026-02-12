@@ -36,9 +36,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank"></a> 
   <a href="https://www.figma.com/@MateusFranco" target="_blank">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"</a> 
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiODY3NTMzZmItNTRmYi00NGJjLTljMzYtMTcxODUwN2NmMWI4IiwidCI6IjU3Y2M5YjJmLTJmOWUtNDVkNS1iZDNlLWM4MTg3ZDkzMzA4MyJ9" target="_blank">
+  <a href="https://mateusfranco-portfolio.lovable.app/" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=white" target="_blank"</a> 
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiOWYyYTg3M2QtN2RjYy00YTkxLTkxNmMtZTYwNzM4YmFkNDEwIiwidCI6IjU5ZDRmMjQ5LTA1MjAtNDZjZi1iNmIyLTg3M2Q1ZGE1NDNmZSJ9" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=white" target="_blank"</a> 
-  
   </div>
