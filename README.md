@@ -1,6 +1,5 @@
 ## Olá, me chamo Mateus! 👋
 
-- 🛠️ Atualmente atuando como Analista HelpDesk
 - 🎓 Estudante de ADS
 - 💻 Técnico em Informática pela Internet pela Etec Fernando Prestes
 - ⚙ Fascinado por Desenvolvimento, Análise de Dados, Experiência do Usuário e Interfaces Gráficas!
