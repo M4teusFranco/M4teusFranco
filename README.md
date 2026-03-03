@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de ADS
 - 💻 Técnico em Informática pela Internet pela Etec Fernando Prestes
-- ⚙ Fascinado por Desenvolvimento, Análise de Dados, Experiência do Usuário e Interfaces Gráficas!
+- ⚙ Fascinado por Desenvolvimento, Análise de Dados, Experiência do Usuário e Interfaces Gráficas
 - 🖌️ Além disso, tenho pleno interesse por Prototipações Gráficas via Figma, Design e Dashboards
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
 
@@ -22,7 +22,6 @@
   <img align="center" alt="Mateus-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Mateus-TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Mateus-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Mateus-Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
   ##
