@@ -3,7 +3,6 @@
 - 🎓 Estudante de ADS
 - 💻 Técnico em Informática pela Internet pela Etec Fernando Prestes
 - ⚙ Fascinado por Desenvolvimento, Análise de Dados, Experiência do Usuário e Interfaces Gráficas!
-- 🚀 Explorando constantemente o universo de Fullstack, Banco de Dados e Desenvolvimento de Sistemas Interativos
 - 🖌️ Além disso, tenho pleno interesse por Prototipações Gráficas via Figma, Design e Dashboards
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
 
