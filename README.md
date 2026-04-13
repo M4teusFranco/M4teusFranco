@@ -1,7 +1,7 @@
 ## Olá, me chamo Mateus! 👋
 
 - 🎓 Estudante de ADS
-- 💻 Técnico em Informática pela Internet pela Etec Fernando Prestes
+- 💻 Técnico em Informática pela Internet
 - ⚙ Fascinado por Desenvolvimento, Análise de Dados, Experiência do Usuário e Interfaces Gráficas
 - 🖌️ Além disso, tenho pleno interesse por Prototipações Gráficas via Figma, Design e Dashboards
 - 💬 Contate-me no Email: mateusfranco216@gmail.com
